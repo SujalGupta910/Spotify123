@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "38OY5MQtAowehO1Bz0LKo1mR1ap0SErV7eRJ0w+C7l422oEz8Q27Mv10umblenFhl6hVI2FycQZmlzGB7QuAnw==",
+  "success": true,
+  "projectFilePath": "E:\\source\\Spotify123\\Spotify123.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sujal gupta\\.nuget\\packages\\aspnet.security.oauth.spotify\\7.0.2\\aspnet.security.oauth.spotify.7.0.2.nupkg.sha512",
+    "C:\\Users\\sujal gupta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sujal gupta\\.nuget\\packages\\spotifyapi.web\\7.0.0\\spotifyapi.web.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+h1{
+  text-shadow: 1px 1px 2px black;
+  color: white;
+}
+h2{
+  
+  text-shadow: 1px 1px 2px black;
+  color: white;
+}
+p{
+  color: ghostwhite;
+}
+a{
+  font-size: larger;
+  color: aliceblue;
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.window{
+height: 400px;
+overflow: auto;
+border: 1px solid #ccc;
+}
+
+.content{
+  padding: 10px;
+}
+
+body {
+  
+  background-image: url("llcc1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 60px;
+}
+
