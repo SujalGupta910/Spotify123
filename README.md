@@ -1,4 +1,5 @@
 # Lily Chou Chou inspired Spotify webpage
+![Website Screenshot](https://github.com/SujalGupta910/SpotifyPlaylistsWeb/blob/master/Spotify123.png)
 It's a simple webpage made with ASP.NET core and SpotifyAPI-Net API. 
 It uses OAuth to authorise the user with spotify and grant read access. 
 Once successfully authorised, the user can view their saved playlists on the webpage, which is themed after the Shunji Iwai coming-of-age
